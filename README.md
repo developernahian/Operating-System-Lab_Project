@@ -12,6 +12,7 @@
 
 
 ```bash
+#!/bin/bash
 total_price=0
 Choice_item()
 {
@@ -360,7 +361,7 @@ esac
 
 ### Output
 <div style="text-align: center;">
-  <img src="https://i.ibb.co.com/1gjQYvy/sdfs.png" alt="Image" style="width: 100%;" />
+  <img src="https://ibb.co.com/Q3hdpLMm" alt="Image" style="width: 100%;" />
 </div>
 
 ---

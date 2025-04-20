@@ -1,3 +1,4 @@
+#!/bin/bash
 total_price=0
 Choice_item()
 {

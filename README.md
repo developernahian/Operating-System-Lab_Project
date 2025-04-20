@@ -1,10 +1,13 @@
 # Operating-System-Lab_Project
 ## Smart Restaurant Management System
- `chmod +x filename`
- `./filename`
+ - `chmod +x filename`
+ - `./filename`
  
  ---
- 
+
+- ` bash online compiler link: https://www.onlinegdb.com/online_bash_shell`
+
+ ---
 
 
 
